@@ -1,4 +1,4 @@
 #numer indeksu
 195013
-#gruba labolatoryjna
-SS
+#grupa labolatoryjna
+5iSS
